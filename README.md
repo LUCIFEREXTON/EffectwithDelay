@@ -1,7 +1,11 @@
 # EffectwithDelay
-Created with CodeSandbox<br/>
-<b>Options to pass</b><br/>
-<br/><br/>
+
+## Use this file as component 
+### https://github.com/LUCIFEREXTON/EffectwithDelay/blob/cc8fb345d6c084aefc90bdf2eb526774f2cc4a3d/src/UsedelayEffect.jsx
+
+
+## <b>Options to pass</b><br/>
+<br/>
 <b>show</b>: pass <i>boolean</i> value to mount and unmount component<br/><br/>
 <b>setshow</b>: <i>function</i>- pass one argument a boolean value to set value of show in function<br/><br/>
 <b>delay</b>: pass delay <i>(Number in ms)</i> after which component need to be unmounted after initialisation of process<br/>
